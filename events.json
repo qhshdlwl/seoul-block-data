@@ -1,0 +1,654 @@
+{
+ "generatedAt": "2026-09-18T11:09:48.067Z",
+ "days": {
+  "2026-09-18": {
+   "posted": true,
+   "sourceUrl": "https://www.smpa.go.kr/user/nd54882.do?View&boardNo=00340475",
+   "rallies": [
+    {
+     "start": "12:00",
+     "end": "14:00",
+     "overnight": false,
+     "timeRaw": "12:00~14:00",
+     "placeRaw": "동화면세점 앞 -> 사랑채 동측 건너편 <세종대로 등>",
+     "people": 200,
+     "stations": [
+      "종로"
+     ],
+     "route": [
+      "동화면세점 앞",
+      "사랑채 동측 건너편"
+     ],
+     "roads": "세종대로 등",
+     "id": "2026-09-18-r1",
+     "districts": [
+      "종로구"
+     ],
+     "march": true,
+     "big": false,
+     "at": {
+      "lat": 37.5697,
+      "lng": 126.9762,
+      "approx": false
+     },
+     "pts": [
+      {
+       "lat": 37.5697,
+       "lng": 126.9762
+      },
+      {
+       "lat": 37.5826,
+       "lng": 126.9736
+      }
+     ]
+    },
+    {
+     "start": "14:00",
+     "end": "16:00",
+     "overnight": false,
+     "timeRaw": "14:00~16:00",
+     "placeRaw": "마로니에공원 -> 한성대입구역 4出 -> 마로니에공원 <동숭동 등>",
+     "people": 500,
+     "stations": [
+      "혜화",
+      "성북"
+     ],
+     "route": [
+      "마로니에공원",
+      "한성대입구역 4번 출구",
+      "마로니에공원"
+     ],
+     "roads": "동숭동 등",
+     "id": "2026-09-18-r2",
+     "districts": [
+      "종로구",
+      "성북구"
+     ],
+     "march": true,
+     "big": false,
+     "at": {
+      "lat": 37.5805,
+      "lng": 127.0026,
+      "approx": false
+     },
+     "pts": [
+      {
+       "lat": 37.5805,
+       "lng": 127.0026
+      },
+      {
+       "lat": 37.5884,
+       "lng": 127.0063
+      },
+      {
+       "lat": 37.5805,
+       "lng": 127.0026
+      }
+     ]
+    },
+    {
+     "start": "17:00",
+     "end": "18:30",
+     "overnight": false,
+     "timeRaw": "17:00~18:30",
+     "placeRaw": "삼성회장 자택 앞 -> 삼성복지재단 앞 <한남동>",
+     "people": 200,
+     "stations": [
+      "용산"
+     ],
+     "route": [
+      "삼성회장 자택 앞",
+      "삼성복지재단 앞"
+     ],
+     "roads": "한남동",
+     "id": "2026-09-18-r3",
+     "districts": [
+      "용산구"
+     ],
+     "march": true,
+     "big": false,
+     "at": {
+      "lat": 37.537,
+      "lng": 127.003,
+      "approx": true
+     },
+     "pts": [
+      null,
+      null
+     ]
+    },
+    {
+     "start": "19:30",
+     "end": "22:00",
+     "overnight": false,
+     "timeRaw": "19:30~22:00",
+     "placeRaw": "서울중앙우체국 -> 명동역 5出 <퇴계로 등>",
+     "people": 300,
+     "stations": [
+      "중부",
+      "남대문"
+     ],
+     "route": [
+      "서울중앙우체국",
+      "명동역 5번 출구"
+     ],
+     "roads": "퇴계로 등",
+     "id": "2026-09-18-r4",
+     "districts": [
+      "중구"
+     ],
+     "march": true,
+     "big": false,
+     "at": {
+      "lat": 37.5617,
+      "lng": 126.9822,
+      "approx": false
+     },
+     "pts": [
+      {
+       "lat": 37.5617,
+       "lng": 126.9822
+      },
+      {
+       "lat": 37.5612,
+       "lng": 126.986
+      }
+     ]
+    }
+   ],
+   "events": []
+  },
+  "2026-09-19": {
+   "posted": true,
+   "sourceUrl": "https://www.smpa.go.kr/user/nd54882.do?View&boardNo=00340505",
+   "rallies": [
+    {
+     "start": "12:00",
+     "end": "16:00",
+     "overnight": false,
+     "timeRaw": "12:00~16:00",
+     "placeRaw": "동화면세점~원표공원 -> 구 효자치안센터 <세종대로 등>",
+     "people": 50000,
+     "stations": [
+      "종로"
+     ],
+     "route": [
+      "동화면세점~원표공원",
+      "구 효자치안센터"
+     ],
+     "roads": "세종대로 등",
+     "id": "2026-09-19-r1",
+     "districts": [
+      "종로구"
+     ],
+     "march": true,
+     "big": true,
+     "at": {
+      "lat": 37.5697,
+      "lng": 126.9762,
+      "approx": false
+     },
+     "pts": [
+      {
+       "lat": 37.5697,
+       "lng": 126.9762
+      },
+      {
+       "lat": 37.5826,
+       "lng": 126.9736
+      }
+     ]
+    },
+    {
+     "start": "13:00",
+     "end": "15:00",
+     "overnight": false,
+     "timeRaw": "13:00~15:00",
+     "placeRaw": "르메이에르빌딩 -> 사랑채 동측 <세종대로 등>",
+     "people": 10000,
+     "stations": [
+      "종로"
+     ],
+     "route": [
+      "르메이에르빌딩",
+      "사랑채 동측"
+     ],
+     "roads": "세종대로 등",
+     "id": "2026-09-19-r2",
+     "districts": [
+      "종로구"
+     ],
+     "march": true,
+     "big": true,
+     "at": {
+      "lat": 37.5709,
+      "lng": 126.9797,
+      "approx": false
+     },
+     "pts": [
+      {
+       "lat": 37.5709,
+       "lng": 126.9797
+      },
+      {
+       "lat": 37.5826,
+       "lng": 126.9736
+      }
+     ]
+    },
+    {
+     "start": "13:00",
+     "end": "14:40",
+     "overnight": false,
+     "timeRaw": "13:00~14:40",
+     "placeRaw": "보신각 앞 -> 숭례문 <관철동 등>",
+     "people": 1000,
+     "stations": [
+      "종로"
+     ],
+     "route": [
+      "보신각 앞",
+      "숭례문"
+     ],
+     "roads": "관철동 등",
+     "id": "2026-09-19-r3",
+     "districts": [
+      "종로구"
+     ],
+     "march": true,
+     "big": true,
+     "at": {
+      "lat": 37.5699,
+      "lng": 126.9835,
+      "approx": false
+     },
+     "pts": [
+      {
+       "lat": 37.5699,
+       "lng": 126.9835
+      },
+      {
+       "lat": 37.56,
+       "lng": 126.9753
+      }
+     ]
+    },
+    {
+     "start": "15:00",
+     "end": "17:40",
+     "overnight": false,
+     "timeRaw": "15:00~17:40",
+     "placeRaw": "시청역 7出 -> 고궁박물관 남측 편도 전차로 <태평로2가 등>",
+     "people": 30000,
+     "stations": [
+      "종로",
+      "남대문"
+     ],
+     "route": [
+      "시청역 7번 출구",
+      "고궁박물관 남측 편도 전차로"
+     ],
+     "roads": "태평로2가 등",
+     "id": "2026-09-19-r4",
+     "districts": [
+      "종로구",
+      "중구"
+     ],
+     "march": true,
+     "big": true,
+     "at": {
+      "lat": 37.5655,
+      "lng": 126.9776,
+      "approx": false
+     },
+     "pts": [
+      {
+       "lat": 37.5655,
+       "lng": 126.9776
+      },
+      {
+       "lat": 37.5762,
+       "lng": 126.9745
+      }
+     ]
+    },
+    {
+     "start": "16:00",
+     "end": "18:30",
+     "overnight": false,
+     "timeRaw": "16:00~18:30",
+     "placeRaw": "포시즌스호텔 -> 안국R -> 포시즌스호텔 <세종대로 등>",
+     "people": 5000,
+     "stations": [
+      "종로",
+      "남대문"
+     ],
+     "route": [
+      "포시즌스호텔",
+      "안국로터리",
+      "포시즌스호텔"
+     ],
+     "roads": "세종대로 등",
+     "id": "2026-09-19-r5",
+     "districts": [
+      "종로구",
+      "중구"
+     ],
+     "march": true,
+     "big": true,
+     "at": {
+      "lat": 37.5706,
+      "lng": 126.9754,
+      "approx": false
+     },
+     "pts": [
+      {
+       "lat": 37.5706,
+       "lng": 126.9754
+      },
+      {
+       "lat": 37.5768,
+       "lng": 126.9853
+      },
+      {
+       "lat": 37.5706,
+       "lng": 126.9754
+      }
+     ]
+    },
+    {
+     "start": "16:00",
+     "end": "18:00",
+     "overnight": false,
+     "timeRaw": "16:00~18:00",
+     "placeRaw": "정곡빌딩 -> 신사역 3出 <강남대로 등>",
+     "people": 1000,
+     "stations": [
+      "강남",
+      "서초"
+     ],
+     "route": [
+      "정곡빌딩",
+      "신사역 3번 출구"
+     ],
+     "roads": "강남대로 등",
+     "id": "2026-09-19-r6",
+     "districts": [
+      "강남구",
+      "서초구"
+     ],
+     "march": true,
+     "big": true,
+     "at": {
+      "lat": 37.495,
+      "lng": 127.0125,
+      "approx": false
+     },
+     "pts": [
+      {
+       "lat": 37.495,
+       "lng": 127.0125
+      },
+      {
+       "lat": 37.5163,
+       "lng": 127.0203
+      }
+     ]
+    }
+   ],
+   "events": []
+  },
+  "2026-09-20": {
+   "posted": true,
+   "sourceUrl": "https://www.smpa.go.kr/user/nd54882.do?View&boardNo=00340506",
+   "rallies": [
+    {
+     "start": "10:00",
+     "end": "11:00",
+     "overnight": false,
+     "timeRaw": "10:00~11:00",
+     "placeRaw": "평강제일교회 앞 <오류동>",
+     "people": 1000,
+     "stations": [
+      "구로"
+     ],
+     "route": [
+      "평강제일교회 앞"
+     ],
+     "roads": "오류동",
+     "id": "2026-09-20-r1",
+     "districts": [
+      "구로구"
+     ],
+     "march": false,
+     "big": true,
+     "at": {
+      "lat": 37.4925,
+      "lng": 126.8405,
+      "approx": false
+     },
+     "pts": [
+      {
+       "lat": 37.4925,
+       "lng": 126.8405
+      }
+     ]
+    },
+    {
+     "start": "11:00",
+     "end": "13:00",
+     "overnight": false,
+     "timeRaw": "11:00~13:00",
+     "placeRaw": "동화면세점 앞 인도 <태평로1가>",
+     "people": 10000,
+     "stations": [
+      "종로"
+     ],
+     "route": [
+      "동화면세점 앞 인도"
+     ],
+     "roads": "태평로1가",
+     "id": "2026-09-20-r2",
+     "districts": [
+      "종로구"
+     ],
+     "march": false,
+     "big": true,
+     "at": {
+      "lat": 37.5697,
+      "lng": 126.9762,
+      "approx": false
+     },
+     "pts": [
+      {
+       "lat": 37.5697,
+       "lng": 126.9762
+      }
+     ]
+    },
+    {
+     "start": "15:00",
+     "end": "17:00",
+     "overnight": false,
+     "timeRaw": "15:00~17:00",
+     "placeRaw": "동화면세점~시의회 앞 인도 및 하위 2개 차로 <세종대로>",
+     "people": 5000,
+     "stations": [
+      "종로",
+      "남대문"
+     ],
+     "route": [
+      "동화면세점~시의회 앞 인도 및 하위 2개 차로"
+     ],
+     "roads": "세종대로",
+     "id": "2026-09-20-r3",
+     "districts": [
+      "종로구",
+      "중구"
+     ],
+     "march": false,
+     "big": true,
+     "at": {
+      "lat": 37.5697,
+      "lng": 126.9762,
+      "approx": false
+     },
+     "pts": [
+      {
+       "lat": 37.5697,
+       "lng": 126.9762
+      }
+     ]
+    }
+   ],
+   "events": []
+  },
+  "2026-09-21": {
+   "posted": true,
+   "sourceUrl": "https://www.smpa.go.kr/user/nd54882.do?View&boardNo=00340507",
+   "rallies": [
+    {
+     "start": "14:00",
+     "end": "17:00",
+     "overnight": false,
+     "timeRaw": "14:00~17:00",
+     "placeRaw": "서울역 3번 출구 앞 -> 사랑채 동측 <효자로 등>",
+     "people": 1000,
+     "stations": [
+      "종로",
+      "남대문"
+     ],
+     "route": [
+      "서울역 3번 출구 앞",
+      "사랑채 동측"
+     ],
+     "roads": "효자로 등",
+     "id": "2026-09-21-r1",
+     "districts": [
+      "종로구",
+      "중구"
+     ],
+     "march": true,
+     "big": true,
+     "at": {
+      "lat": 37.5547,
+      "lng": 126.9707,
+      "approx": false
+     },
+     "pts": [
+      {
+       "lat": 37.5547,
+       "lng": 126.9707
+      },
+      {
+       "lat": 37.5826,
+       "lng": 126.9736
+      }
+     ]
+    },
+    {
+     "start": "14:00",
+     "end": "16:00",
+     "overnight": false,
+     "timeRaw": "14:00~16:00",
+     "placeRaw": "서울역 -> 명동역 1번 출구 <세종대로 등>",
+     "people": 100,
+     "stations": [
+      "남대문"
+     ],
+     "route": [
+      "서울역",
+      "명동역 1번 출구"
+     ],
+     "roads": "세종대로 등",
+     "id": "2026-09-21-r2",
+     "districts": [
+      "중구"
+     ],
+     "march": true,
+     "big": false,
+     "at": {
+      "lat": 37.5547,
+      "lng": 126.9707,
+      "approx": false
+     },
+     "pts": [
+      {
+       "lat": 37.5547,
+       "lng": 126.9707
+      },
+      {
+       "lat": 37.5612,
+       "lng": 126.986
+      }
+     ]
+    },
+    {
+     "start": "19:00",
+     "end": "20:00",
+     "overnight": false,
+     "timeRaw": "19:00~20:00",
+     "placeRaw": "KT본관 앞 남측 인도 <세종로>",
+     "people": 5000,
+     "stations": [
+      "종로"
+     ],
+     "route": [
+      "KT본관 앞 남측 인도"
+     ],
+     "roads": "세종로",
+     "id": "2026-09-21-r3",
+     "districts": [
+      "종로구"
+     ],
+     "march": false,
+     "big": true,
+     "at": {
+      "lat": 37.5719,
+      "lng": 126.9781,
+      "approx": false
+     },
+     "pts": [
+      {
+       "lat": 37.5719,
+       "lng": 126.9781
+      }
+     ]
+    },
+    {
+     "start": "19:00",
+     "end": "20:30",
+     "overnight": false,
+     "timeRaw": "19:00~20:30",
+     "placeRaw": "사랑채 동측 <효자로>",
+     "people": 350,
+     "stations": [
+      "종로"
+     ],
+     "route": [
+      "사랑채 동측"
+     ],
+     "roads": "효자로",
+     "id": "2026-09-21-r4",
+     "districts": [
+      "종로구"
+     ],
+     "march": false,
+     "big": false,
+     "at": {
+      "lat": 37.5826,
+      "lng": 126.9736,
+      "approx": false
+     },
+     "pts": [
+      {
+       "lat": 37.5826,
+       "lng": 126.9736
+      }
+     ]
+    }
+   ],
+   "events": []
+  }
+ }
+}
