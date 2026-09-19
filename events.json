@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-18T23:49:27.722Z",
+ "generatedAt": "2026-09-19T10:26:35.637Z",
  "days": {
   "2026-09-19": {
    "posted": true,
@@ -239,7 +239,8 @@
      ]
     }
    ],
-   "events": []
+   "events": [],
+   "controls": []
   },
   "2026-09-20": {
    "posted": true,
@@ -344,7 +345,8 @@
      ]
     }
    ],
-   "events": []
+   "events": [],
+   "controls": []
   },
   "2026-09-21": {
    "posted": true,
@@ -491,7 +493,8 @@
      ]
     }
    ],
-   "events": []
+   "events": [],
+   "controls": []
   }
  }
 }
