@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-19T10:28:11.506Z",
+ "generatedAt": "2026-09-19T10:42:04.749Z",
  "days": {
   "2026-09-19": {
    "posted": true,
@@ -40,9 +40,6 @@
        "lat": 37.5826,
        "lng": 126.9736
       }
-     ],
-     "related": [
-      "사직로 (경복궁역 → 사직공원)집회무대 설치작업으로 전차로 통제되어 반대…"
      ]
     },
     {
@@ -80,9 +77,6 @@
        "lat": 37.5826,
        "lng": 126.9736
       }
-     ],
-     "related": [
-      "사직로 (경복궁역 → 사직공원)집회무대 설치작업으로 전차로 통제되어 반대…"
      ]
     },
     {
@@ -203,9 +197,6 @@
        "lat": 37.5706,
        "lng": 126.9754
       }
-     ],
-     "related": [
-      "사직로 (경복궁역 → 사직공원)집회무대 설치작업으로 전차로 통제되어 반대…"
      ]
     },
     {
@@ -269,6 +260,7 @@
      ],
      "longTerm": true,
      "kind": "work",
+     "minor": false,
      "id": "2026-09-19-c1041980"
     },
     {
@@ -290,6 +282,7 @@
      ],
      "longTerm": true,
      "kind": "work",
+     "minor": false,
      "id": "2026-09-19-c1071788"
     },
     {
@@ -311,6 +304,7 @@
      ],
      "longTerm": true,
      "kind": "work",
+     "minor": false,
      "id": "2026-09-19-c1071792"
     },
     {
@@ -332,6 +326,7 @@
      ],
      "longTerm": true,
      "kind": "work",
+     "minor": false,
      "id": "2026-09-19-c1085188"
     },
     {
@@ -396,6 +391,127 @@
      "longTerm": false,
      "kind": "event",
      "id": "2026-09-19-c1100354"
+    }
+   ],
+   "crowds": [
+    {
+     "id": "2026-09-19-x축제-기타메이커페어서",
+     "kind": "crowd",
+     "date": "2026-09-19",
+     "start": "",
+     "end": "",
+     "title": "메이커 페어 서울 (Maker Faire Seoul) 2026",
+     "place": "동대문디자인플라자 DDP 미래로 ",
+     "detail": "동대문디자인플라자 DDP 미래로 일대 1F 미래로 | 3F 디자인랩, 4F 잔디사랑방",
+     "at": {
+      "lat": 37.5665,
+      "lng": 127.0092,
+      "approx": false
+     },
+     "districts": [
+      "중구"
+     ],
+     "url": "https://science.seoul.go.kr/sciEvent/specialEvent/read?menuId=78&progMstId=1719"
+    },
+    {
+     "id": "2026-09-19-x축제-문화/예술서울거리예술축제",
+     "kind": "crowd",
+     "date": "2026-09-19",
+     "start": "",
+     "end": "",
+     "title": "서울거리예술축제 2026",
+     "place": "뚝섬한강공원",
+     "detail": "뚝섬한강공원, 서울숲",
+     "at": {
+      "lat": 37.5297,
+      "lng": 127.0703,
+      "approx": false
+     },
+     "districts": [
+      "광진구"
+     ],
+     "url": "https://www.instagram.com/ssaf.official/"
+    },
+    {
+     "id": "2026-09-19-x뮤지컬/오페라서울스테이지i",
+     "kind": "crowd",
+     "date": "2026-09-19",
+     "start": "",
+     "end": "",
+     "title": "서울스테이지 in 어텀",
+     "place": "서울숲 야외무대",
+     "detail": "서울숲 야외무대",
+     "at": {
+      "lat": 37.5444,
+      "lng": 127.0374,
+      "approx": false
+     },
+     "districts": [
+      "성동구"
+     ],
+     "url": "https://www.instagram.com/p/DclHcW_mGqS/?img_index=1"
+    }
+   ],
+   "incidents": [
+    {
+     "accId": "1100957",
+     "date": "2026-09-19",
+     "endDate": "2026-09-19",
+     "start": "19:27",
+     "end": "20:00",
+     "at": {
+      "lat": 37.60978,
+      "lng": 126.99217
+     },
+     "title": "내부순환로 성수JC 방향 정릉터널 출구→정릉램프 구간 추돌사고 * 발생 …",
+     "detail": "",
+     "raw": "[사고] 내부순환로 성수JC 방향 정릉터널 출구→정릉램프 구간 추돌사고 * 발생 일시 : 2026년09월19일 19시19분",
+     "road": "내부순환로",
+     "districts": [
+      "성북구"
+     ],
+     "longTerm": false,
+     "kind": "incident"
+    },
+    {
+     "accId": "1100956",
+     "date": "2026-09-19",
+     "endDate": "2026-09-19",
+     "start": "18:40",
+     "end": "20:00",
+     "at": {
+      "lat": 37.53349,
+      "lng": 127.05865
+     },
+     "title": "강변북로 전면통제",
+     "detail": "",
+     "raw": "강변북로 구리방향 뚝섬한강공원진입로 주차장 만차관련으로 진입램프 전면통제",
+     "road": "강변북로",
+     "districts": [
+      "성동구"
+     ],
+     "longTerm": false,
+     "kind": "incident"
+    },
+    {
+     "accId": "1100849",
+     "date": "2026-09-19",
+     "endDate": "2026-09-19",
+     "start": "07:02",
+     "end": "23:00",
+     "at": {
+      "lat": 37.60791,
+      "lng": 127.00192
+     },
+     "title": "내부순환로 성산 방향 국민대램프→정릉터널입구 구간 노면요철",
+     "detail": "",
+     "raw": "[기타] 내부순환로 성산 방향 국민대램프→정릉터널입구 구간 노면요철",
+     "road": "내부순환로",
+     "districts": [
+      "성북구"
+     ],
+     "longTerm": false,
+     "kind": "incident"
     }
    ]
   },
@@ -523,6 +639,7 @@
      ],
      "longTerm": true,
      "kind": "work",
+     "minor": false,
      "id": "2026-09-20-c1041980"
     },
     {
@@ -544,6 +661,7 @@
      ],
      "longTerm": true,
      "kind": "work",
+     "minor": false,
      "id": "2026-09-20-c1071788"
     },
     {
@@ -565,6 +683,7 @@
      ],
      "longTerm": true,
      "kind": "work",
+     "minor": false,
      "id": "2026-09-20-c1071792"
     },
     {
@@ -586,6 +705,7 @@
      ],
      "longTerm": true,
      "kind": "work",
+     "minor": false,
      "id": "2026-09-20-c1085188"
     },
     {
@@ -650,6 +770,103 @@
      "longTerm": false,
      "kind": "event",
      "id": "2026-09-20-c1100354"
+    }
+   ],
+   "crowds": [
+    {
+     "id": "2026-09-20-x축제-시민화합2026다름다",
+     "kind": "crowd",
+     "date": "2026-09-20",
+     "start": "",
+     "end": "",
+     "title": "2026 다름다움 페스티벌",
+     "place": "반포한강공원 예빛섬 야외무대",
+     "detail": "반포한강공원 예빛섬 야외무대 일원",
+     "at": {
+      "lat": 37.5125,
+      "lng": 126.9959,
+      "approx": false
+     },
+     "districts": [
+      "서초구"
+     ],
+     "url": "https://darumdaum.com/"
+    },
+    {
+     "id": "2026-09-20-x콘서트2026홍난파",
+     "kind": "crowd",
+     "date": "2026-09-20",
+     "start": "",
+     "end": "",
+     "title": "2026 홍난파가곡제 [나의 살던 고향은]",
+     "place": "세종문화회관 대극장",
+     "detail": "세종문화회관 대극장",
+     "at": {
+      "lat": 37.5724,
+      "lng": 126.9768,
+      "approx": false
+     },
+     "districts": [
+      "종로구"
+     ],
+     "url": "https://www.lanpa.co.kr/"
+    },
+    {
+     "id": "2026-09-20-x축제-기타메이커페어서",
+     "kind": "crowd",
+     "date": "2026-09-20",
+     "start": "",
+     "end": "",
+     "title": "메이커 페어 서울 (Maker Faire Seoul) 2026",
+     "place": "동대문디자인플라자 DDP 미래로 ",
+     "detail": "동대문디자인플라자 DDP 미래로 일대 1F 미래로 | 3F 디자인랩, 4F 잔디사랑방",
+     "at": {
+      "lat": 37.5665,
+      "lng": 127.0092,
+      "approx": false
+     },
+     "districts": [
+      "중구"
+     ],
+     "url": "https://science.seoul.go.kr/sciEvent/specialEvent/read?menuId=78&progMstId=1719"
+    },
+    {
+     "id": "2026-09-20-x축제-문화/예술서울거리예술축제",
+     "kind": "crowd",
+     "date": "2026-09-20",
+     "start": "",
+     "end": "",
+     "title": "서울거리예술축제 2026",
+     "place": "뚝섬한강공원",
+     "detail": "뚝섬한강공원, 서울숲",
+     "at": {
+      "lat": 37.5297,
+      "lng": 127.0703,
+      "approx": false
+     },
+     "districts": [
+      "광진구"
+     ],
+     "url": "https://www.instagram.com/ssaf.official/"
+    },
+    {
+     "id": "2026-09-20-x뮤지컬/오페라서울스테이지i",
+     "kind": "crowd",
+     "date": "2026-09-20",
+     "start": "",
+     "end": "",
+     "title": "서울스테이지 in 어텀",
+     "place": "서울숲 야외무대",
+     "detail": "서울숲 야외무대",
+     "at": {
+      "lat": 37.5444,
+      "lng": 127.0374,
+      "approx": false
+     },
+     "districts": [
+      "성동구"
+     ],
+     "url": "https://www.instagram.com/p/DclHcW_mGqS/?img_index=1"
     }
    ]
   },
@@ -819,6 +1036,7 @@
      ],
      "longTerm": true,
      "kind": "work",
+     "minor": false,
      "id": "2026-09-21-c1041980"
     },
     {
@@ -840,6 +1058,7 @@
      ],
      "longTerm": true,
      "kind": "work",
+     "minor": false,
      "id": "2026-09-21-c1071788"
     },
     {
@@ -861,6 +1080,7 @@
      ],
      "longTerm": true,
      "kind": "work",
+     "minor": false,
      "id": "2026-09-21-c1071792"
     },
     {
@@ -882,6 +1102,7 @@
      ],
      "longTerm": true,
      "kind": "work",
+     "minor": false,
      "id": "2026-09-21-c1085188"
     },
     {
@@ -905,7 +1126,8 @@
      "kind": "event",
      "id": "2026-09-21-c1100354"
     }
-   ]
+   ],
+   "crowds": []
   }
  }
 }
