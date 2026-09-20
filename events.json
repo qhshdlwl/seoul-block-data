@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-09-20T22:35:00.586Z",
- "problemsSignature": "",
+ "generatedAt": "2026-09-20T23:05:11.386Z",
+ "problemsSignature": "읽기 실패(#회 시도, 마지막: fetch failed): https://www.smpa.go.kr/user/nd#####.do — 집회는 이전 데이터를 유지하고 나머지 소스만 갱신함",
  "days": {
   "2026-09-21": {
    "posted": true,
@@ -258,10 +258,97 @@
      "kind": "work",
      "minor": true,
      "id": "2026-09-21-c1101061"
+    },
+    {
+     "accId": "1101066",
+     "date": "2026-09-21",
+     "endDate": "2026-09-21",
+     "start": "07:43",
+     "end": "18:00",
+     "at": {
+      "lat": 37.4932,
+      "lng": 127.01368
+     },
+     "title": "서초중앙로 (법원검찰청 → 서울교대) 3차로 시설물보수",
+     "detail": "",
+     "raw": "서초중앙로 (법원검찰청 → 서울교대) 3차로 시설물보수",
+     "road": "서초중앙로",
+     "districts": [
+      "서초구"
+     ],
+     "longTerm": false,
+     "kind": "work",
+     "minor": true,
+     "id": "2026-09-21-c1101066"
+    },
+    {
+     "accId": "1101068",
+     "date": "2026-09-21",
+     "endDate": "2026-09-21",
+     "start": "08:03",
+     "end": "15:00",
+     "at": {
+      "lat": 37.48451,
+      "lng": 127.07328
+     },
+     "title": "양재대로",
+     "detail": "개포3,4단지 → 일원터널)지하차도옆 2차로 시설물보수",
+     "raw": "양재대로 (개포3,4단지 → 일원터널)지하차도옆 2차로 시설물보수",
+     "road": "양재대로",
+     "districts": [
+      "강남구"
+     ],
+     "longTerm": false,
+     "kind": "work",
+     "minor": true,
+     "id": "2026-09-21-c1101068"
     }
    ],
    "crowds": [],
-   "incidents": []
+   "incidents": [
+    {
+     "accId": "1101067",
+     "date": "2026-09-21",
+     "endDate": "2026-09-21",
+     "start": "07:51",
+     "end": "09:00",
+     "at": {
+      "lat": 37.56317,
+      "lng": 126.88635
+     },
+     "title": "강변북로 (월드컵 → 가양대교) 1차로 차량고장",
+     "detail": "",
+     "raw": "강변북로 (월드컵 → 가양대교) 1차로 차량고장",
+     "road": "강변북로",
+     "districts": [
+      "마포구"
+     ],
+     "longTerm": false,
+     "kind": "incident",
+     "sub": "breakdown"
+    },
+    {
+     "accId": "1101064",
+     "date": "2026-09-21",
+     "endDate": "2026-09-21",
+     "start": "07:40",
+     "end": "09:00",
+     "at": {
+      "lat": 37.53415,
+      "lng": 127.02889
+     },
+     "title": "올림픽대로 (동호대교남단 → 성수대교남단) 3차로 추돌사고",
+     "detail": "",
+     "raw": "올림픽대로 (동호대교남단 → 성수대교남단) 3차로 추돌사고",
+     "road": "올림픽대로",
+     "districts": [
+      "강남구"
+     ],
+     "longTerm": false,
+     "kind": "incident",
+     "sub": "crash"
+    }
+   ]
   },
   "2026-09-22": {
    "posted": false,
