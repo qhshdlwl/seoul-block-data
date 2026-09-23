@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-09-23T03:51:26.368Z",
- "problemsSignature": "",
+ "generatedAt": "2026-09-23T09:15:37.158Z",
+ "problemsSignature": "####-##-##: 이전 데이터도 없어 이 날짜는 뺌|####-##-##: 파싱 건수 #|TOPIS 돌발정보 읽기 실패 — 이전 통제 정보를 유지함: 읽기 실패(#회 시도, 마지막: fetch failed): http://openapi.seoul.go.kr:####/***/xml/AccInfo/#/####/|마라톤 안내 읽기 실패 — 이전 마라톤 데이터를 유지함: 읽기 실패(#회 시도, 마지막: fetch failed): https://news.seoul.go.kr/culture/?s=%EA%B#%##%EC%##%AD%##%EA%B#%##%ED%##%B#%ED%##%B#%EC%A#%#C|문화행사 읽기 실패 — 이전 붐빔 정보를 유지함: 읽기 실패(#회 시도, 마지막: fetch failed): http://openapi.seoul.go.kr:####/***/json/culturalEventInfo/#/###/%##/%##/####-##-##",
  "days": {
   "2026-09-23": {
    "posted": true,
@@ -490,33 +490,114 @@
     }
    ],
    "crowds": [],
-   "incidents": [
-    {
-     "accId": "1101516",
-     "date": "2026-09-23",
-     "endDate": "2026-09-23",
-     "start": "12:43",
-     "end": "14:00",
-     "at": {
-      "lat": 37.53736,
-      "lng": 127.04486
-     },
-     "title": "강변북로 구리방향 (성수 → 영동대교북단) 4차로 고장차량",
-     "detail": "",
-     "raw": "강변북로 구리방향 (성수 → 영동대교북단) 4차로 고장차량",
-     "road": "강변북로",
-     "districts": [
-      "성동구"
-     ],
-     "longTerm": false,
-     "kind": "incident",
-     "sub": "breakdown"
-    }
-   ]
+   "incidents": []
   },
   "2026-09-24": {
-   "posted": false,
-   "rallies": [],
+   "posted": true,
+   "sourceUrl": "https://www.smpa.go.kr/user/nd54882.do?View&boardNo=00340658",
+   "rallies": [
+    {
+     "start": "13:00",
+     "end": "15:00",
+     "overnight": false,
+     "timeRaw": "13:00~15:00",
+     "placeRaw": "강남역 11출->정곡빌딩 남관 <서초대로 등>",
+     "people": 100,
+     "stations": [
+      "강남",
+      "서초"
+     ],
+     "route": [
+      "강남역 11출",
+      "정곡빌딩 남관"
+     ],
+     "roads": "서초대로 등",
+     "id": "2026-09-24-r1",
+     "districts": [
+      "강남구",
+      "서초구"
+     ],
+     "march": true,
+     "big": false,
+     "at": {
+      "lat": 37.4979,
+      "lng": 127.0276,
+      "approx": false
+     },
+     "pts": [
+      {
+       "lat": 37.4979,
+       "lng": 127.0276
+      },
+      {
+       "lat": 37.495,
+       "lng": 127.0125
+      }
+     ]
+    },
+    {
+     "start": "13:00",
+     "end": "14:00",
+     "overnight": false,
+     "timeRaw": "13:00~14:00",
+     "placeRaw": "광명교삼거리->남부구치소 <오리로 등>",
+     "people": 300,
+     "stations": [
+      "구로"
+     ],
+     "route": [
+      "광명교삼거리",
+      "남부구치소"
+     ],
+     "roads": "오리로 등",
+     "id": "2026-09-24-r2",
+     "districts": [
+      "구로구"
+     ],
+     "march": true,
+     "big": false,
+     "at": {
+      "lat": 37.49175297126634,
+      "lng": 126.85892279173625,
+      "approx": true
+     },
+     "pts": [
+      null,
+      null
+     ]
+    },
+    {
+     "start": "17:30",
+     "end": "19:00",
+     "overnight": false,
+     "timeRaw": "17:30~19:00",
+     "placeRaw": "송파역 3출->동부구치소 <송파대로 등>",
+     "people": 300,
+     "stations": [
+      "송파"
+     ],
+     "route": [
+      "송파역 3출",
+      "동부구치소"
+     ],
+     "roads": "송파대로 등",
+     "id": "2026-09-24-r3",
+     "districts": [
+      "송파구"
+     ],
+     "march": true,
+     "big": false,
+     "at": {
+      "lat": 37.50227829947808,
+      "lng": 127.11741633600771,
+      "approx": true
+     },
+     "pts": [
+      null,
+      null
+     ]
+    }
+   ],
    "events": [],
    "controls": [
     {
@@ -729,8 +810,108 @@
    "crowds": []
   },
   "2026-09-26": {
-   "posted": false,
-   "rallies": [],
+   "posted": true,
+   "sourceUrl": "https://www.smpa.go.kr/user/nd54882.do?View&boardNo=00340660",
+   "rallies": [
+    {
+     "start": "12:00",
+     "end": "16:00",
+     "overnight": false,
+     "timeRaw": "12:00~16:00",
+     "placeRaw": "동화면세점 앞 <세종대로 등>",
+     "people": 50000,
+     "stations": [
+      "종로"
+     ],
+     "route": [
+      "동화면세점 앞"
+     ],
+     "roads": "세종대로 등",
+     "id": "2026-09-26-r1",
+     "districts": [
+      "종로구"
+     ],
+     "march": false,
+     "big": true,
+     "at": {
+      "lat": 37.5697,
+      "lng": 126.9762,
+      "approx": false
+     },
+     "pts": [
+      {
+       "lat": 37.5697,
+       "lng": 126.9762
+      }
+     ]
+    },
+    {
+     "start": "14:00",
+     "end": "16:30",
+     "overnight": false,
+     "timeRaw": "14:00~16:30",
+     "placeRaw": "대한문 앞 <태평로 1가>",
+     "people": 2000,
+     "stations": [
+      "남대문"
+     ],
+     "route": [
+      "대한문 앞"
+     ],
+     "roads": "태평로 1가",
+     "id": "2026-09-26-r2",
+     "districts": [
+      "중구"
+     ],
+     "march": false,
+     "big": true,
+     "at": {
+      "lat": 37.5651,
+      "lng": 126.977,
+      "approx": false
+     },
+     "pts": [
+      {
+       "lat": 37.5651,
+       "lng": 126.977
+      }
+     ]
+    },
+    {
+     "start": "14:00",
+     "end": "18:00",
+     "overnight": false,
+     "timeRaw": "14:00~18:00",
+     "placeRaw": "사랑채 동측 건너편->송현공원 <효자로 등>",
+     "people": 150,
+     "stations": [
+      "종로"
+     ],
+     "route": [
+      "사랑채 동측 건너편",
+      "송현공원"
+     ],
+     "roads": "효자로 등",
+     "id": "2026-09-26-r3",
+     "districts": [
+      "종로구"
+     ],
+     "march": true,
+     "big": false,
+     "at": {
+      "lat": 37.5826,
+      "lng": 126.9736,
+      "approx": false
+     },
+     "pts": [
+      {
+       "lat": 37.5826,
+       "lng": 126.9736
+      },
+      null
+     ]
+    }
+   ],
    "events": [],
    "controls": [
     {
