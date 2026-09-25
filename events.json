@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-09-25T23:22:40.624Z",
- "problemsSignature": "",
+ "generatedAt": "2026-09-25T23:54:53.223Z",
+ "problemsSignature": "읽기 실패(#회 시도, 마지막: fetch failed): https://www.smpa.go.kr/user/nd#####.do — 집회는 이전 데이터를 유지하고 나머지 소스만 갱신함",
  "days": {
   "2026-09-26": {
    "posted": true,
