@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-09-27T15:34:40.213Z",
- "problemsSignature": "읽기 실패(#회 시도, 마지막: fetch failed): https://www.smpa.go.kr/user/nd#####.do — 집회는 이전 데이터를 유지하고 나머지 소스만 갱신함",
+ "generatedAt": "2026-09-27T23:12:38.150Z",
+ "problemsSignature": "",
  "days": {
   "2026-09-28": {
    "posted": true,
@@ -195,7 +195,29 @@
     }
    ],
    "crowds": [],
-   "incidents": []
+   "incidents": [
+    {
+     "accId": "1101815",
+     "date": "2026-09-28",
+     "endDate": "2026-09-28",
+     "start": "07:34",
+     "end": "18:00",
+     "at": {
+      "lat": 37.56323,
+      "lng": 126.86303
+     },
+     "title": "올림픽대로 김포 방향 가양대교남단→방화대교남단 구간 고장차량",
+     "detail": "",
+     "raw": "[고장] 올림픽대로 김포 방향 가양대교남단→방화대교남단 구간 고장차량",
+     "road": "올림픽대로",
+     "districts": [
+      "강서구"
+     ],
+     "longTerm": false,
+     "kind": "incident",
+     "sub": "breakdown"
+    }
+   ]
   },
   "2026-09-29": {
    "posted": false,
